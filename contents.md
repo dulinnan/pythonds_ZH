@@ -33,9 +33,9 @@
  - 1.7 [小结]
   	 
 * 2 [基本数据结构](2.Basic_Data_Structures/2.md)
- - 2.1 [什么是线性结构？]
- - 2.2 [什么是堆栈？]
- - 2.3 [关于堆栈]
+ - 2.1 [什么是线性结构？](2.Basic_Data_Structures/2.1.md)
+ - 2.2 [什么是堆栈？](2.Basic_Data_Structures/2.2.md)
+ - 2.3 [关于堆栈](2.Basic_Data_Structures/2.3.md)
  - 2.4 [在 Python 中实现堆栈]
  - 2.5 [简单的对称括号]
  - 2.6 [对称符号（一个普适例子）]
